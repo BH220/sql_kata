@@ -4,3 +4,49 @@
 
 /sql_kata/App.config
 /.vs/sql_kata
+## Visual Studio 관련 ##
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## 빌드 결과물 ##
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Tt]emp/
+
+## 패키지 관리 ##
+*.nupkg
+*.snupkg
+packages/
+# NuGet v3
+*.nuget.props
+*.nuget.targets
+
+## 테스트 결과물 ##
+TestResults/
+*.VisualState.xml
+*.vsp
+*.vspx
+*.coverage
+*.coveragexml
+
+## 기타 ##
+*.cache
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.log
+*.tmp
+
+## Rider (JetBrains) ##
+.idea/
+*.sln.iml
+
+## macOS / Linux ##
+.DS_Store
+*.swp
