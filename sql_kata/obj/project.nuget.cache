@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jJ7nvyNU+FQ=",
+  "dgSpecHash": "R5pO/YAVZiU=",
   "success": true,
-  "projectFilePath": "C:\\bh_git\\sql_kata\\sql_kata\\sql_kata.csproj",
+  "projectFilePath": "C:\\git\\sql_kata\\sql_kata\\sql_kata.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bhjin\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\bhjin\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

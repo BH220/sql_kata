@@ -4034,11 +4034,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\bh_git\\sql_kata\\sql_kata\\sql_kata.csproj",
+      "projectUniqueName": "C:\\git\\sql_kata\\sql_kata\\sql_kata.csproj",
       "projectName": "sql_kata",
-      "projectPath": "C:\\bh_git\\sql_kata\\sql_kata\\sql_kata.csproj",
+      "projectPath": "C:\\git\\sql_kata\\sql_kata\\sql_kata.csproj",
       "packagesPath": "C:\\Users\\bhjin\\.nuget\\packages\\",
-      "outputPath": "C:\\bh_git\\sql_kata\\sql_kata\\obj\\",
+      "outputPath": "C:\\git\\sql_kata\\sql_kata\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4131,7 +4131,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
