@@ -12,7 +12,7 @@ namespace sql_kata
 
         private void B()
         {
-            Console.WriteLine("B");
+            Console.WriteLine("BBBBBB");
         }
         static void Main(string[] args)
         {
