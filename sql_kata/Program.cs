@@ -5,6 +5,11 @@ namespace sql_kata
 {
     internal class Program
     {
+        private void A()
+        {
+            Console.WriteLine("A");
+        }
+
         private void B()
         {
             Console.WriteLine("B");
