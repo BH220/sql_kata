@@ -1,8 +1,14 @@
 ﻿
+using Microsoft.IdentityModel.Protocols.OpenIdConnect;
+
 namespace sql_kata
 {
     internal class Program
     {
+        private void B()
+        {
+            Console.WriteLine("B");
+        }
         static void Main(string[] args)
         {
             EF ef = new EF();
