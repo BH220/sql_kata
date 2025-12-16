@@ -3,6 +3,11 @@ namespace sql_kata
 {
     internal class Program
     {
+        private void A()
+        {
+            Console.WriteLine("A");
+        }
+
         static void Main(string[] args)
         {
             EF ef = new EF();
