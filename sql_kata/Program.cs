@@ -7,7 +7,7 @@ namespace sql_kata
     {
         private void A()
         {
-            Console.WriteLine("A");
+            Console.WriteLine("ABCD");
         }
 
         private void B()
